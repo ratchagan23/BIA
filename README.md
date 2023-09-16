@@ -1,2 +1,2 @@
 # BIA
-bia data analytics course 
+BIA data analytics course 
